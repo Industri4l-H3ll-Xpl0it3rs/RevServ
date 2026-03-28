@@ -36,9 +36,11 @@ Designed for red teamers, pentesters, and bug bounty hunters who need a quick an
 ```bash
 chmod +x revserv.py
 sudo ./revserv.py
+```
 
 or
 
+```bash
 python3 revserv.py
 ```
 
