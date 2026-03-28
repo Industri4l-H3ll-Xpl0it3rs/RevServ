@@ -14,8 +14,6 @@ This script bootstraps a fresh Debian/Ubuntu-based server and prepares it for re
 
 Designed for red teamers, pentesters, and bug bounty hunters who need a quick and repeatable environment setup.
 
----
-
 ## Features
 
 - Base tools installation (`curl`, `wget`, `git`, `net-tools`, etc.)
@@ -28,14 +26,10 @@ Designed for red teamers, pentesters, and bug bounty hunters who need a quick an
   - Allow reverse shell port (4444/tcp)
 - One-command setup
 
----
-
 ## Requirements
 
 - Debian/Ubuntu-based system
 - Root privileges
-
----
 
 ## Usage
 
