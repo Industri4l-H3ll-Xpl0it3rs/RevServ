@@ -1,6 +1,6 @@
 # RevServ
 
-By [infrar3d](https://github.com/Infrar3dd)
+cr34t3d by [infrar3d](https://github.com/Infrar3dd)
 
 Automated server preparation script for reverse shell operations and remote access.
 
