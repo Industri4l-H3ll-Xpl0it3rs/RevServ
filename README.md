@@ -14,20 +14,7 @@ This script bootstraps a fresh Debian/Ubuntu-based server and prepares it for re
 
 Designed for red teamers, pentesters, and bug bounty hunters who need a quick and repeatable environment setup.
 
-## Usage
-
-```bash
-chmod +x revserv.py
-sudo ./revserv.py
-```
-
-or
-
-```bash
-python3 revserv.py
-```
-
-## Features
+### Features
 
 - Base tools installation (`curl`, `wget`, `git`, `net-tools`, etc.)
 - Optional creation of a new sudo user
@@ -39,10 +26,23 @@ python3 revserv.py
   - Allow reverse shell port (4444/tcp)
 - One-command setup
 
-## Requirements
+### Requirements
 
 - Debian/Ubuntu-based system
 - Root privileges
+
+### Usage
+
+```bash
+chmod +x revserv.py
+sudo ./revserv.py
+```
+
+or
+
+```bash
+python3 revserv.py
+```
 
 ### ⚠️ Disclaimer ⚠️
 
